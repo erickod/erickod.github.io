@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://erickduarte.dev/sitemap.xml
+Sitemap: https://erickod.dev/sitemap.xml
