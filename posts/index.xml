@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on erickduarte.dev</title>
+    <title>Posts on erickod.dev</title>
     <link>https://erickod.dev/posts/</link>
-    <description>Recent content in Posts on erickduarte.dev</description>
+    <description>Recent content in Posts on erickod.dev</description>
     <image>
-      <title>erickduarte.dev</title>
+      <title>erickod.dev</title>
       <url>https://erickod.dev/images/papermod-cover.png</url>
       <link>https://erickod.dev/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.147.1</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 05 May 2025 02:42:41 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 05 May 2025 23:15:33 -0300</lastBuildDate>
     <atom:link href="https://erickod.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pycep a Criacao E Publicacao De Uma Lib Em Python</title>
+      <link>https://erickod.dev/posts/pycep-a-criacao-e-publicacao-de-uma-lib-em-python/</link>
+      <pubDate>Mon, 05 May 2025 23:15:33 -0300</pubDate>
+      <guid>https://erickod.dev/posts/pycep-a-criacao-e-publicacao-de-uma-lib-em-python/</guid>
+      <description>&lt;p&gt;Quem nunca precisou fazer buscas de CEP, e o serviço de consulta estava indisponível? Daí surge a &lt;strong&gt;pycep&lt;/strong&gt;, uma biblioteca escrita em python que objetiva fazer buscas em diversos serviços de maneira totalmente assíncrona.&lt;/p&gt;
+&lt;p&gt;Nesse post quero demonstrar algumas das etapas do processo de criação da biblioteca, como a concepção da ideia e também a publicação no &lt;strong&gt;pypi&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;A ideia é simples, uma classe que carrega automaticamente os serviços disponíveis no diretório service como se fossem plugins, e os executa retornando os dados do serviço que responder primeiro.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hello World</title>
       <link>https://erickod.dev/posts/hello-world/</link>
